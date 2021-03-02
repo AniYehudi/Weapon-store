@@ -1,0 +1,144 @@
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\alex\Desktop\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\alex\Desktop\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.Login.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.HomeAdminP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.HomeClientP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.ProductListP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.SaleListP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.UserListP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.BrowsePanelP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.ClientInfoP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.DialogConfirmationP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.DialogMessageP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.ProductInformationP.resources
+C:\Users\alex\Desktop\Practice\Practice\obj\Debug\Practice.Aboutus.resources
+C:\College\Visual C#\Practice\Practice\bin\Debug\Practice.exe.config
+C:\College\Visual C#\Practice\Practice\bin\Debug\Practice.exe
+C:\College\Visual C#\Practice\Practice\bin\Debug\Practice.pdb
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.Aboutus.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.BrowsePanelP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.ClientInfoP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.DialogConfirmationP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.DialogMessageP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.HomeAdminP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.HomeClientP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.ProductInformationP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.ProductListP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.Login.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.SaleListP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.UserListP.resources
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.exe
+C:\College\Visual C#\Practice\Practice\obj\Debug\Practice.pdb
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\bin\Debug\Practice.exe.config
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\bin\Debug\Practice.exe
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\bin\Debug\Practice.pdb
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.Aboutus.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.BrowsePanelP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.ClientInfoP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.DialogConfirmationP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.DialogMessageP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.HomeAdminP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.HomeClientP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.ProductInformationP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.ProductListP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.Login.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.SaleListP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.UserListP.resources
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.exe
+C:\College\Visual C#\Projects\Practice College 3'rd year\Practice\obj\Debug\Practice.pdb
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.exe.config
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.exe
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.pdb
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Aboutus.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.BrowsePanelP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ClientInfoP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.DialogConfirmationP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.DialogMessageP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.HomeAdminP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.HomeClientP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ProductInformationP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ProductListP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Login.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.SaleListP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.UserListP.resources
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.exe
+C:\My Files\Programming\CEEF\Anul 3\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.pdb
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.exe.config
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.exe
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.pdb
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Aboutus.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.BrowsePanelP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ClientInfoP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.DialogConfirmationP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.DialogMessageP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.HomeAdminP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.HomeClientP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ProductInformationP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ProductListP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Login.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.SaleListP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.UserListP.resources
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.exe
+C:\Users\alex\Desktop\Organiser\Volatile\Applicative Programming\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.pdb
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.exe.config
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.exe
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\bin\Debug\Practice.pdb
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Aboutus.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.BrowsePanelP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ClientInfoP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.DialogConfirmationP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.DialogMessageP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.HomeAdminP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.HomeClientP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ProductInformationP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.ProductListP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.Login.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.SaleListP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.UserListP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.exe
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Practice College 3'rd year\Practice\obj\Debug\Practice.pdb
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\bin\Debug\Practice.exe.config
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\bin\Debug\Practice.exe
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\bin\Debug\Practice.pdb
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.Aboutus.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.BrowsePanelP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.ClientInfoP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.DialogConfirmationP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.DialogMessageP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.HomeAdminP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.HomeClientP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.ProductInformationP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.ProductListP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.Login.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.SaleListP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.UserListP.resources
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.exe
+C:\Users\alex\Desktop\Organiser\Training\C#\Visual C#\Weapon store\Practice\obj\Debug\Practice.pdb
