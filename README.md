@@ -8,11 +8,15 @@ To do this, you have to Create a database mdf file, than navigate twards Databas
 # Log In : 
 You have 2 options to log in (as User and as Admin);
 The default login data for user is : 
-Login : u
+
+Login : u 
+
 Password : a
 
 And the default login data for admin is : 
-Login : a
+
+Login : a 
+
 Password : a
 
 # Register
@@ -21,7 +25,10 @@ In order to register, on the login page you c=may enter your personal data.
 Once you have registered, by default you'l become a user, but not an admin.
 To become an admin, you have to log as an admin, and give the access from users management!
 
-# Bug
+# Bugs
 1. cannot refresh the products in browse product menu.
 2. Will trow an exception.
 3. Not all of the exceptions are checked!
+
+# Language
+The language of the application is Romanian
