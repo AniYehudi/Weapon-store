@@ -11,7 +11,7 @@ The default login data for user is :
 
 Login : u 
 
-Password : a
+Password : u
 
 And the default login data for admin is : 
 
@@ -21,7 +21,7 @@ Password : a
 
 # Register
 But you may register as a new user if you want to have a new account.
-In order to register, on the login page you c=may enter your personal data.
+In order to register, on the login page you may enter your personal data.
 Once you have registered, by default you'l become a user, but not an admin.
 To become an admin, you have to log as an admin, and give the access from users management!
 
